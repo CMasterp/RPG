@@ -46,7 +46,7 @@ $ make re
 ## GAME
 
 <p align="center">
-    <a><img src="./img/rpgmap.gif" alt="[002]"></a>
+    <a><img src="./img/rpgmap.jpg" alt="[002]"></a>
 </p>
 
 > :speaking_head: We had to hit this project
