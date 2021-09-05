@@ -1,5 +1,5 @@
 <p align="center">
-    <a><img src="./img/rpg.gif" alt="[002]"></a>
+    <a><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fadventure-time-finn-ya-gif-8025393&psig=AOvVaw1jZSO1KJlmGlTJ0fOgbzmA&ust=1630928686704000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMiB2Pzg5_ICFQAAAAAdAAAAABAY" alt="[002]"></a>
 </p>
 
 # Indie Studio - Time to go cross-platform
